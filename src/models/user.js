@@ -1,0 +1,1 @@
+//User schema definition with required fields (email, password, etc.)

@@ -1,0 +1,1 @@
+//Define endpoints for /login, /signup, /logout
